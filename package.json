@@ -2,6 +2,16 @@
   "name": "antd-storybook",
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "Antd",
+    "Antdesign Reactjs",
+    "storybook",
+    "antd storybook",
+    "ant design storybook",
+    "storybook antd",
+    "storybook antdesign",
+    "storybook for antdesign"
+  ],
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@emotion/react": "^11.10.5",
